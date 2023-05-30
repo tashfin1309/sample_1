@@ -87,6 +87,7 @@
          <h3>contact info</h3>
          <a href="#"> <i class="fas fa-phone"></i> +8801969788429 </a>
          <a href="#"> <i class="fas fa-phone"></i> +8801521582181 </a>
+         <a href="#"> <i class="fas fa-facebook"></i> Tashfin Rahat </a>
          <a href="#"> <i class="fas fa-envelope"></i> tashfinrahat1309@gmail.com </a>
          <a href="#"> <i class="fas fa-map"></i> Dhaka, Bangladesh - 1229 </a>
       </div>
